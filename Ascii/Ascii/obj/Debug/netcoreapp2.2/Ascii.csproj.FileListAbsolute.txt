@@ -1,0 +1,11 @@
+D:\Project\TechGig\Ascii\Ascii\bin\Debug\netcoreapp2.2\Ascii.deps.json
+D:\Project\TechGig\Ascii\Ascii\bin\Debug\netcoreapp2.2\Ascii.runtimeconfig.json
+D:\Project\TechGig\Ascii\Ascii\bin\Debug\netcoreapp2.2\Ascii.runtimeconfig.dev.json
+D:\Project\TechGig\Ascii\Ascii\bin\Debug\netcoreapp2.2\Ascii.dll
+D:\Project\TechGig\Ascii\Ascii\bin\Debug\netcoreapp2.2\Ascii.pdb
+D:\Project\TechGig\Ascii\Ascii\obj\Debug\netcoreapp2.2\Ascii.csprojAssemblyReference.cache
+D:\Project\TechGig\Ascii\Ascii\obj\Debug\netcoreapp2.2\Ascii.csproj.CoreCompileInputs.cache
+D:\Project\TechGig\Ascii\Ascii\obj\Debug\netcoreapp2.2\Ascii.AssemblyInfoInputs.cache
+D:\Project\TechGig\Ascii\Ascii\obj\Debug\netcoreapp2.2\Ascii.AssemblyInfo.cs
+D:\Project\TechGig\Ascii\Ascii\obj\Debug\netcoreapp2.2\Ascii.dll
+D:\Project\TechGig\Ascii\Ascii\obj\Debug\netcoreapp2.2\Ascii.pdb
